@@ -1,0 +1,21 @@
+{
+  "name": "akioi",
+  "version": "1.0.0",
+  "description": "Hazarda Bilibili Emotes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mirakelor/Akioi"
+  },
+  "keywords": [
+    "Akioi",
+    "Emote",
+    "Bilibili"
+  ],
+  "author": "Mirakelor",
+  "license": "MIT"
+}
