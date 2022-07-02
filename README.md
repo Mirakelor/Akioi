@@ -4,7 +4,7 @@ Hazarda Bilibili Emotes
 
 ## Install
 
-    npm i akioi --save
+    npm i akioi
 
 Of course you can also use Yarn  
 
@@ -12,6 +12,8 @@ Of course you can also use Yarn
 
 ## How To Use
 
-    import Hazarda from 'Akioi'
+    import { Hazarda } from 'akioi'
 
-    Hazarda()
+    console.log(Hazarda())
+
+函数Hazarda的返回值是一个随机的Bilibili Emote，类型是字符串。
