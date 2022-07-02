@@ -1,5 +1,5 @@
 # Akioi
-![npm version](https://img.shields.io/badge/npm-v1.0.0-brightgreen.svg) ![license](https://img.shields.io/badge/license-MIT-orange.svg)  
+![npm version](https://img.shields.io/badge/npm-v1.0.1-brightgreen.svg) ![license](https://img.shields.io/badge/license-MIT-orange.svg)  
 Hazarda Bilibili Emotes
 
 ## Install
