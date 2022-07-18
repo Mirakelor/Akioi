@@ -1,6 +1,7 @@
-# Akioi
-![npm version](https://img.shields.io/badge/npm-v1.0.1-brightgreen.svg) ![license](https://img.shields.io/badge/license-MIT-orange.svg)  
-Hazarda Bilibili Emotes
+# Akioi.js
+![npm version](https://img.shields.io/badge/npm-v1.0.2-brightgreen.svg) ![license](https://img.shields.io/badge/license-MIT-orange.svg)  
+
+~~(°∀°)ﾉ A Cute😺🎀🎵 NPM Package For OIer.
 
 ## Install
 
@@ -16,4 +17,4 @@ Of course you can also use Yarn
 
     console.log(Hazarda())
 
-函数Hazarda的返回值是一个随机的Bilibili Emote，类型是字符串。
+Function Hazarda Will Return A Cute Emoji😘🐧🤔🤩🫡

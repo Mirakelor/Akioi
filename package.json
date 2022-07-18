@@ -1,11 +1,11 @@
 {
   "name": "akioi",
-  "version": "1.0.1",
-  "description": "Hazarda Bilibili Emotes",
-  "main": "index.js",
+  "version": "1.0.2",
+  "description": "~~(°∀°)ﾉ A Cute😺🎀🎵 NPM Package For OIer.",
+  "main": "src/hazarad.js",
   "type": "module",
   "scripts": {
-    "test": "node index.js"
+    "test": "node src/hazarad.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,8 @@
   "keywords": [
     "Akioi",
     "Emote",
-    "Bilibili"
+    "OIer",
+    "Mirakelor"
   ],
   "author": "Mirakelor",
   "license": "MIT"
