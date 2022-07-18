@@ -1,11 +1,11 @@
 {
   "name": "akioi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "~~(°∀°)ﾉ A Cute😺🎀🎵 NPM Package For OIer.",
-  "main": "src/hazarad.js",
+  "main": "src/hazarda.js",
   "type": "module",
   "scripts": {
-    "test": "node src/hazarad.js"
+    "test": "node src/hazarda.js"
   },
   "repository": {
     "type": "git",
