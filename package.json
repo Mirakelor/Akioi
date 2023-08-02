@@ -1,6 +1,6 @@
 {
   "name": "akioi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "~~(°∀°)ﾉ A Cute😺🎀🎵 NPM Package For OIer.",
   "main": "src/hazarda.js",
   "type": "module",
@@ -13,9 +13,13 @@
   },
   "keywords": [
     "Akioi",
-    "Emote",
+    "Emoji",
+    "Emojis",
     "OIer",
-    "Mirakelor"
+    "Mirakelor",
+    "Miracle",
+    "Mastodon",
+    "ActivityPub"
   ],
   "author": "Mirakelor",
   "license": "MIT"
