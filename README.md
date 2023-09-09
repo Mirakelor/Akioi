@@ -1,5 +1,5 @@
 # Akioi.js
-![npm version](https://img.shields.io/badge/npm-v1.0.4-brightgreen.svg) ![license](https://img.shields.io/badge/license-MIT-orange.svg)  
+![npm version](https://img.shields.io/badge/npm-v1.0.5-brightgreen.svg) ![license](https://img.shields.io/badge/license-MIT-orange.svg)  
 
 ~~(°∀°)ﾉ A Cute😺🎀🎵 NPM Package For OIer.
 
